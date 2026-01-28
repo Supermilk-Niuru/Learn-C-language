@@ -6,7 +6,7 @@
 [函数](https://github.com/Supermilk-Niuru/Learn-C-language/blob/main/C%E8%AF%AD%E8%A8%80-%E9%83%A8%E5%88%86%E7%9F%A5%E8%AF%86%E7%82%B9/%E5%87%BD%E6%95%B0.md)
 [字符串](https://github.com/Supermilk-Niuru/Learn-C-language/blob/main/C%E8%AF%AD%E8%A8%80-%E9%83%A8%E5%88%86%E7%9F%A5%E8%AF%86%E7%82%B9/%E5%AD%97%E7%AC%A6%E4%B8%B2.md)
 [指针](https://github.com/Supermilk-Niuru/Learn-C-language/blob/main/C%E8%AF%AD%E8%A8%80-%E9%83%A8%E5%88%86%E7%9F%A5%E8%AF%86%E7%82%B9/%E6%8C%87%E9%92%88.md)
-**注：**在`C++`中还有补充 
+**注：** 在`C++`中还有补充 
 [结构体、联合体、动态内存分配](https://github.com/Supermilk-Niuru/Learn-C-language/blob/main/C%E8%AF%AD%E8%A8%80-%E9%83%A8%E5%88%86%E7%9F%A5%E8%AF%86%E7%82%B9/%E7%BB%93%E6%9E%84%E4%BD%93%E3%80%81%E8%81%94%E5%90%88%E4%BD%93%E3%80%81%E5%8A%A8%E6%80%81%E5%86%85%E5%AD%98%E5%88%86%E9%85%8D.md)
 
 ### Experiment Lessons
